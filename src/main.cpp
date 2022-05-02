@@ -30,7 +30,7 @@ int main() {
               stopNow = false;
           }
       }
-      std::cout<<"The player ID you entered does not exist. Here is your new player ID"<<playerID<<std::endl;
+      std::cout<<"The player ID you entered does not exist. Here is your new player ID: "<<playerID<<std::endl;
   }
   Renderer renderer(kScreenWidth, kScreenHeight, kGridWidth, kGridHeight);
   Controller controller;
