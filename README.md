@@ -6,6 +6,8 @@ This repo has committed the extsion codes for Capstone project in the  [Udacity 
 ## Class Structure
 
 ## Expected Behavior
+1. Enter you player ID. If your player ID does not exist. The system will generate a new (unique) ID for you. 
+
 
 ## Dependencies for Running Locally
 * cmake >= 3.7
