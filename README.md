@@ -1,5 +1,5 @@
 # CPPND: Capstone Snake Game Example
-This repo has committed the extsion codes for Capstone project in the  [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). The code for this repo was inspired by [this](https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl). The extension includes:
+This repo has committed the extension codes for Capstone project in the  [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). The code for this repo was inspired by [this](https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl). The extension includes:
 1. A LeaderBoard class that add, reset, and display scores from players (idea is inspired by [leader board question](https://leetcode.com/problems/design-a-leaderboard/)). 
 2. A SimpleData class that read and write LeaderBoard data from a file. 
 
