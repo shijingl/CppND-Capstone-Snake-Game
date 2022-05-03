@@ -4,7 +4,7 @@ This repo has committed the extsion codes for Capstone project in the  [Udacity 
 2. A SimpleData class that read and write LeaderBoard data from a file. 
 
 ## Class Structure
-<img src="https://github.com/shijingl/CppND-Capstone-Snake-Game/blob/master/class-structure.jpg"/>
+<img src="https://github.com/shijingl/CppND-Capstone-Snake-Game/blob/master/class-structure.JPG"/>
 
 ## Expected Behavior
 1. Enter your player ID. If your player ID does not exist, the system will generate a new (unique) ID for you. <img src="https://github.com/shijingl/CppND-Capstone-Snake-Game/blob/master/Step-1.png"/>
